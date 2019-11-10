@@ -15,7 +15,7 @@ Worked on freecode camp Responsive Web Design challenges, Basic HTML and HTML5 u
 Set up github for challenge and forked the repo. Started reading ProGit book to better understand Git. 
 **Thoughts:** 
 Not a bad day. It will be tough balancing all the other things in my life and doing this challenge and journaling about here but going to try.
-**Link to work:** 
+**Links to work:** 
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field
 https://twitter.com/Bender_meemoo/status/1193360413951496192
 
