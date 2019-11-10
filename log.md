@@ -21,6 +21,7 @@ Not a bad day. It will be tough balancing all the other things in my life and do
 **Links to work:** 
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field
 https://twitter.com/Bender_meemoo/status/1193360413951496192
+https://codepen.io/Bender_Meemoo
 
 ### Day 2: 11.10.2019
 
