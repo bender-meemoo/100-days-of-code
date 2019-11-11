@@ -5,7 +5,9 @@
 
 **Today's Progress**: 
 
-**Thoughts**: 
+**Thoughts**:
+
+**Music**:
 
 **Link(s) to work**:
 
@@ -17,6 +19,8 @@ Set up github for challenge and forked the repo. Started reading ProGit book to 
 
 **Thoughts:** 
 Not a bad day. It will be tough balancing all the other things in my life and doing this challenge and journaling about here but going to try.
+
+**Music**: Mahler: Symphony No.2
 
 **Links to work:** 
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field
