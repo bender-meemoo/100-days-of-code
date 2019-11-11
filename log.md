@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+<!--- # 100 Days Of Code - Log
 
 ### Day 0: 
 ##### 
@@ -9,7 +9,7 @@
 
 **Music**:
 
-**Link(s) to work**:
+**Link(s) to work**: --->
 
 ### Day 1: 11.9.2019
 #####
