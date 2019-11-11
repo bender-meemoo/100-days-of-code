@@ -23,6 +23,7 @@ Not a bad day. It will be tough balancing all the other things in my life and do
 **Music**: Mahler: Symphony No.2
 
 **Links to work**:
+
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field
 
 https://twitter.com/Bender_meemoo/status/1193360413951496192
@@ -41,6 +42,7 @@ Tried to get more reading and coding in but life, still got a fair bit in though
 Chelsea Wolfe - just a mix of her stuff.
 
 **Link(s) to work**:
+
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
 
 https://codepen.io/Bender_Meemoo
