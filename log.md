@@ -9,7 +9,8 @@
 
 **Music**:
 
-**Link(s) to work**: --->
+**Link(s) to work**: 
+--->
 
 ### Day 1: 11.9.2019
 #####
@@ -26,7 +27,7 @@ Not a bad day. It will be tough balancing all the other things in my life and do
 
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-placeholder-text-to-a-text-field
 
-https://twitter.com/Bender_meemoo/status/1193360413951496192
+https://codepen.io/Bender_Meemoo
 
 https://codepen.io/Bender_Meemoo
 
@@ -48,4 +49,23 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
 https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1193713851121967105
+
+### Day 3: 11.11.2019
+##### 
+
+**Today's Progress**: 
+Only was able to get 9 lessons on freecoadecamp.org done, wasn't feeling well. Also not much in the way of reading either.
+
+**Thoughts**:
+Progress is much easier when you do not have work or feel like crap
+
+**Music**: Chelsea Wolfe, again
+
+**Link(s) to work**:
+
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/size-your-images
+
+https://codepen.io/Bender_Meemoo
+
+https://twitter.com/Bender_meemoo/status/1194073842085453824
 
