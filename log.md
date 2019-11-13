@@ -21,7 +21,7 @@ Set up github for challenge and forked the repo. Started reading ProGit book to 
 **Thoughts**: 
 Not a bad day. It will be tough balancing all the other things in my life and doing this challenge and journaling about here but going to try.
 
-**Music**: Mahler: Symphony No.2
+**Music**: Mahler: Symphony No.2 https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz?si=hl5-6WcAQLe9WOmABpY3Ww
 
 **Links to work**:
 
@@ -40,7 +40,7 @@ Finished up Freecodecamp.org Basic Html adn HTML5 lessons. Hopefully will start 
 Tried to get more reading and coding in but life, still got a fair bit in though. How the fuck did I not know Chelsea Wolfe existed?
 
 **Music**:
-Chelsea Wolfe - just a mix of her stuff.
+Chelsea Wolfe - just a mix of her stuff. https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10?si=0i76260OR8ipWeAn5aL5tA
 
 **Link(s) to work**:
 
@@ -59,7 +59,7 @@ Only was able to get 9 lessons on freecoadecamp.org done, wasn't feeling well. A
 **Thoughts**:
 Progress is much easier when you do not have work or feel like crap
 
-**Music**: Chelsea Wolfe, again
+**Music**: Chelsea Wolfe, again https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10?si=0i76260OR8ipWeAn5aL5tA
 
 **Link(s) to work**:
 
@@ -69,7 +69,7 @@ https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1194073842085453824
 
-### Day 4: 
+### Day 4: 11.12.2019
 ##### 
 
 **Today's Progress**: 
@@ -78,7 +78,7 @@ Did the freecodecamp.org thang for a bit and am in the process of registering a 
 **Thoughts**:
 Finding time is hard if you are looking to sit for large ammounts of time but breaking it down to what is manageable blocks of time as chaos ensues is easier. That is not to say that I would not like to sit and code for a few hours straight.
 
-**Music**: SURVIVE just a random assortment of stuff
+**Music**: SURVIVE just a random assortment of stuff https://open.spotify.com/artist/12cKwxUl6Ku3VpSB3LjrM5?si=2x25pDExTFiOEEvwHWEQLw
 
 **Link(s) to work**: 
 
@@ -86,3 +86,4 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute
 
 https://codepen.io/Bender_Meemoo
 
+https://twitter.com/Bender_meemoo/status/1194455349803266049
