@@ -69,3 +69,20 @@ https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1194073842085453824
 
+### Day 4: 
+##### 
+
+**Today's Progress**: 
+Did the freecodecamp.org thang for a bit and am in the process of registering a Wordpress site to practice HTML, CSS, Javascript, and journal about this whole thing
+
+**Thoughts**:
+Finding time is hard if you are looking to sit for large ammounts of time but breaking it down to what is manageable blocks of time as chaos ensues is easier. That is not to say that I would not like to sit and code for a few hours straight.
+
+**Music**: SURVIVE just a random assortment of stuff
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements
+
+https://codepen.io/Bender_Meemoo
+
