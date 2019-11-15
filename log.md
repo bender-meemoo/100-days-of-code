@@ -88,7 +88,7 @@ https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1194455349803266049
 
-### Day 5: 
+### Day 5: 11.14.2019
 ##### 
 
 **Today's Progress**:
