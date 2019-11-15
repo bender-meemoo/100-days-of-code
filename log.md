@@ -87,3 +87,23 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute
 https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1194455349803266049
+
+### Day 5: 
+##### 
+
+**Today's Progress**:
+Missed yesterday due to life so doubled down today. Did some reading. Did a bunch on freecodecamp.org. Also been trying to break the habit o glancing at my keyboard when typing so I can pay attention more to screen. I have been trying to break that habit for years and have made a ton of progress but consciously doing it is even harder.
+
+**Thoughts**:
+Regret not getting anything done yesterday but between work, family life, and my Wednesday violin lessons it was to much.
+
+**Music**:
+Spotify daily mix that was kinda badass with The Decemberists, Ted Leo, PJ Harvey, and other assorted indie goodies! https://open.spotify.com/playlist/37i9dQZF1E37gQB18jvV8I?si=HAllMvk-TKqP87G0PPLLng
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/improve-compatibility-with-browser-fallbacks
+
+https://codepen.io/Bender_Meemoo
+
+https://twitter.com/Bender_meemoo/status/1195167911863820288
