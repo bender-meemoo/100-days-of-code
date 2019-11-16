@@ -107,3 +107,22 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/improve-compa
 https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1195167911863820288
+
+### Day 6: 11.15.2019
+##### 
+
+**Today's Progress**: 
+Just did an hour today. Just freecodecamp. Nothing fancy but feel good about the progress I am making. I am not rushing it just soaking it in at this point. I am hopefully *fingers crossed* going to get to sit down and get a bunch done this weekend
+
+**Thoughts**:
+Had a bad panic attack last night and did not get to sleep till 2:30am. Plus side about working from home is that I have not gotten out of my pajamas and got be a scumbag all day.
+
+**Music**: Spotify mix of some great pop punk RVIVR, Signals Midwest, Iron Chic, Dilllenger Four, The Mezingers... https://open.spotify.com/playlist/37i9dQZF1E37gQB18jvV8I?si=ZUIeLNzGT0qXnKROIz5qJg
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-width-of-an-element-using-the-width-property
+
+https://codepen.io/Bender_Meemoo
+
+https://twitter.com/Bender_meemoo/status/1195545669131481088
