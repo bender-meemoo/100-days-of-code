@@ -126,3 +126,24 @@ https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/a
 https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1195545669131481088
+
+### Day 7: 11.16.2019 
+##### 
+
+**Today's Progress**: 
+Slow going today. I was hoping to get more time in but life and feelings got in the way. Did some coding but not much.
+
+**Thoughts**:
+PBR, Whiskey, and Whiteclaw lubricate the mind.
+
+**Music**:
+Standard coder loops https://open.spotify.com/playlist/37i9dQZF1E37QyHhRPf20w?si=Uq357GFERdK-Fu6lrWZyrQ
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-size-of-a-header-versus-a-paragraph-tag
+
+https://codepen.io/Bender_Meemoo
+
+https://twitter.com/Bender_meemoo/status/1195904397924085760
+
