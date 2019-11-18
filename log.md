@@ -147,3 +147,21 @@ https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1195904397924085760
 
+### Day 8: 11.17.2019
+##### 
+
+**Today's Progress**: 
+Got to do a bunch of lessons considering I had a lot of things going on.
+
+**Thoughts**:
+People are pretty awful on the internet. I sometimes forget that
+
+**Music**:
+
+**Link(s) to work**: Just another lo-fi mix from spotify https://open.spotify.com/playlist/37i9dQZF1E37QyHhRPf20w?si=NkYt_-QPRc6yZJvSycpsRQ
+
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets
+
+https://codepen.io/Bender_Meemoo
+
+https://twitter.com/Bender_meemoo/status/1196257281207414784
