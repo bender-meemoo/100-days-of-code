@@ -157,8 +157,9 @@ Got to do a bunch of lessons considering I had a lot of things going on.
 People are pretty awful on the internet. I sometimes forget that
 
 **Music**:
+Just another lo-fi mix from spotify https://open.spotify.com/playlist/37i9dQZF1E37QyHhRPf20w?si=NkYt_-QPRc6yZJvSycpsRQ
 
-**Link(s) to work**: Just another lo-fi mix from spotify https://open.spotify.com/playlist/37i9dQZF1E37QyHhRPf20w?si=NkYt_-QPRc6yZJvSycpsRQ
+**Link(s) to work**:
 
 https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/move-a-relatively-positioned-element-with-css-offsets
 
