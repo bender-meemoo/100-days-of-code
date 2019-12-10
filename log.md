@@ -167,7 +167,7 @@ https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1196257281207414784
 
-### Day 1 round 2: 
+### Day 1 round 2: 12.9.2019
 ##### 
 
 **Today's Progress**: 
