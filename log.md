@@ -166,3 +166,25 @@ https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/m
 https://codepen.io/Bender_Meemoo
 
 https://twitter.com/Bender_meemoo/status/1196257281207414784
+
+### Day 1 round 2: 
+##### 
+
+**Today's Progress**: 
+I'm back! Took a 14-day break between work and the Thanksgiving. I have not been idle. I made it to the Responsive Web Design Projects, which is actual coding. I have made it this far before. I could not dissect everything that I did before, so I am recreating the same tribute page I made before I have successfully added the key elements while satisfying the requirements first. That gives me a framework to work with. I can then make the design around that. Yesterday I started to tackle this, but it was frustrating since I was jumping in the middle of the old page and trying to fit it into the new requirements. I needed a place to start so starting with the requirements and then adding elements of the old page helped. It meets the bare minimum, so it is not ready to submit but it should be soon.
+
+**Thoughts**:
+Having a starting point and a plan, albeit a chaotic one that forms as I go, helps.
+
+**Music**:
+Chillwave and hard seltzer https://open.spotify.com/playlist/79aRSPbBPfYUUSQlNVHwit?si=8S6blnKiQRCGppIL8Yb9PQ
+
+**Link(s) to work**
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+
+https://codepen.io/Bender_Meemoo/pen/VwYegYV
+
+https://twitter.com/Bender_meemoo/status/1204230891716927489
+
+
