@@ -187,4 +187,21 @@ https://codepen.io/Bender_Meemoo/pen/VwYegYV
 
 https://twitter.com/Bender_meemoo/status/1204230891716927489
 
+### Day 2: 12.10.2019
+##### 
 
+**Today's Progress**: 
+Started to make the tribute page look not so Geocities( look it up), yes I just dated myself. Mostly by adding CSS elements and starting to use ID’s. Was a pretty good day.
+
+**Thoughts**:
+Would love to add some shadows and perspective and then I might be done.
+
+**Music**: Synthwave for the win! https://open.spotify.com/playlist/3gWAZPuNWpELIhKNbnpfwk?si=gFGtwz2uQRWyUhnmezIHOg
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+
+https://codepen.io/Bender_Meemoo/pen/VwYegYV
+
+https://twitter.com/Bender_meemoo/status/1204601227851522050
