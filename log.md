@@ -205,3 +205,23 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 https://codepen.io/Bender_Meemoo/pen/VwYegYV
 
 https://twitter.com/Bender_meemoo/status/1204601227851522050
+
+### Day 3: 12.11.2019
+##### 
+
+**Today's Progress**: 
+Finished the tribute page, as much as I want to at this time. I will go back and add and clean it up but it looks aesthetically pleasing. On to the Survey Form.
+
+**Thoughts**:
+Getting the page up is the easy part starting it and getting it to look good is the hard part.
+
+**Music**: Microtonal contemporary, micortoanl classical, and classical https://open.spotify.com/playlist/37i9dQZF1E36OE87lDUXbu?si=PtUN17YdTsu-WNbhGGnNYA
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+
+https://codepen.io/Bender_Meemoo/full/VwYegYV
+
+https://twitter.com/Bender_meemoo/status/1204966791350501376
+
