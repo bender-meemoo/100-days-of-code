@@ -225,3 +225,25 @@ https://codepen.io/Bender_Meemoo/full/VwYegYV
 
 https://twitter.com/Bender_meemoo/status/1204966791350501376
 
+### Day 4: 12.12.2019
+##### 
+
+**Today's Progress**: 
+Worked on the Survey Project (Link Below) at FreeCode Camp. Was fun and am starting to get into a flow with the projects and how to tackle them
+
+**Thoughts**:
+When tackling these projects, for argument sake I will say the Tribute Page or the Survey Form( Since I finished the one and am starting the other) I like to go down the list of the user stories and just create base code with nothing else to fulfill the test requirements? I would say template but I am doing it by hand at this point( I see it as practice).
+
+Once the requirements have been met and it will pass the tests. I start filling in what the project will be. As I am just finding and writing the code to fill those requirements I start thinking about what the project will be about. Then I use Trello and SublimeTect to take notes, search the internet for the color palette to use, and images.
+
+I find it helpful to understand my rules(I originally said limitations but that was not the right word or way to look at it) and work from there and build it around those. It is how I approach work as a system analyst, especially implementation projects where I am the technical asset. I learned that from learning about Bach’s Goldberg( No relation to the wrestler) Variations.
+
+**Music**: Just some Brittany Howard https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB?si=XL8-LkWTS9i1a47khvrcUw
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+
+https://codepen.io/Bender_Meemoo/pen/QWwEJqM
+
+https://twitter.com/Bender_meemoo/status/1205328771953364992
