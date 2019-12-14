@@ -247,3 +247,22 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 https://codepen.io/Bender_Meemoo/pen/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1205328771953364992
+
+### Day 5: 12.13.2019 
+##### 
+
+**Today's Progress**: 
+Progress was slow. Less coding and more research/reading on how I want to do this. Going to try a new approach.
+
+**Thoughts**:
+Switching things up. Sure it will be fine
+
+**Music**: just My Discover Weekly https://open.spotify.com/playlist/37i9dQZEVXcDUglTMnZo2W?si=n6hwEmamQ0inIyERo0ogGA
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+
+https://codepen.io/Bender_Meemoo/pen/QWwEJqM
+
+https://twitter.com/Bender_meemoo/status/1205687027695603712
