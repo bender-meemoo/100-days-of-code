@@ -266,3 +266,22 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 https://codepen.io/Bender_Meemoo/pen/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1205687027695603712
+
+### Day 6: 12.14.2019
+##### 
+
+**Today's Progress**: 
+Made some real progress. Not just on the Survey form but in coding as well I have been actively looking up more on how to apply and the reasons for using the HTML I am using.
+
+**Thoughts**:
+So just writing the code on the fly I am learning more code. It is making me research more about what I am using and why. I think as I get better I will go back to a more structured approach but for now, let chaos REIGN!
+
+**Music**: Went simple today with my Release Radar https://open.spotify.com/playlist/37i9dQZEVXbnjqyiUWxnv1?si=a0hvayCqQEeSPell_UCJQA
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+
+https://codepen.io/Bender_Meemoo/full/QWwEJqM
+
+https://twitter.com/Bender_meemoo/status/1206037957485977600
