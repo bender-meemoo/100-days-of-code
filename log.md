@@ -304,3 +304,26 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 https://codepen.io/Bender_Meemoo/pen/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1206394859118047233
+
+### Day 8: 12.16.2019
+##### 
+
+**Today's Progress**: 
+Mostly finished the HTML portion, I am sure I will look tomorrow and find something else. Now onto CSS, fonts, and color palette.
+
+**Thoughts**:
+Today was rough. I almost did not code. The child was terrible, work was exhausting( for a lot of resons that will became apparent soon, fingers crossed), and HTML is not what I am super interested in but I am interested enough to push through to the good stuff that I want to learn.
+
+**Music**: Two playlists today...
+
+https://open.spotify.com/playlist/37i9dQZF1E37gQB18jvV8I?si=uBeh2lzcRDC2zsd28gz87g
+
+https://open.spotify.com/playlist/37i9dQZEVXcDUglTMnZo2W?si=tkW2lkYHSUquFeUURCNdXw
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+
+https://codepen.io/Bender_Meemoo/pen/QWwEJqM
+
+https://twitter.com/Bender_meemoo/status/1206764291271069696
