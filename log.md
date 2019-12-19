@@ -328,6 +328,9 @@ https://codepen.io/Bender_Meemoo/pen/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1206764291271069696
 
+### Day 9: 12.17.2019
+##### 
+
 **Today's Progress**: 
 Did not get any coding done today but started picking out colors, font and reading about CSS Specificity.
 
@@ -343,3 +346,21 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 https://codepen.io/Bender_Meemoo/pen/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1207159359970697217
+
+### Day 10: 12.18.2019
+##### 
+
+**Today's Progress**: 
+Started building the CSS side of the survey page. Taking me a bit since I am looking over element as I lay it out. I am learning a lot this way though but it is taking forever!
+
+**Thoughts**:
+Actually looking up the more advance CSS elemets that I am using for the survey is time consuming but worth it in the long run. Still need to go back and fix my tribute page.
+
+**Music**: If you like to get lost in strange disonant electronic and Classical this mught be your jam https://open.spotify.com/playlist/37i9dQZF1E39tqbQUxVqW8?si=Xd2IHQv3QOyGInmkzYOBhw
+
+**Link(s) to work**: 
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+
+https://codepen.io/Bender_Meemoo/full/QWwEJqM
+
+https://twitter.com/Bender_meemoo/status/1207493360400908288
