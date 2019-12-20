@@ -364,3 +364,23 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 https://codepen.io/Bender_Meemoo/full/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1207493360400908288
+
+### Day 11: 12.18.2019 
+##### 
+
+**Today's Progress**: 
+Got frustrated and copied CSS code. It half works now I need to fix it. Hopefully that is more fun then witing it.
+
+**Thoughts**:
+No thought went into todays code.
+
+**Music**: https://open.spotify.com/playlist/37i9dQZF1E38i644XXXZVl?si=0OPtEkRRQ1yWdOQVpYJtXA
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+
+https://codepen.io/Bender_Meemoo/full/QWwEJqM
+
+https://twitter.com/Bender_meemoo/status/1207861430155956224
+
