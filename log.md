@@ -365,7 +365,7 @@ https://codepen.io/Bender_Meemoo/full/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1207493360400908288
 
-### Day 11: 12.18.2019 
+### Day 11: 12.19.2019 
 ##### 
 
 **Today's Progress**: 
@@ -383,4 +383,23 @@ https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-p
 https://codepen.io/Bender_Meemoo/full/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1207861430155956224
+
+### Day 12: 12.20.2019
+##### 
+
+**Today's Progress**: 
+Finally finished the survey page. I like like but not in love with it. I def will need to go back and fix and clean up stuff. This weekend I will clean up the Tribute Page and start the Product Landing Page.
+
+**Thoughts**:
+Stealing CSS and fitting into your page saves time to start but then you have to go back and fix things that do not work or apply.
+
+**Music**: Violin lessons tonight and listened to some Hilary Hahn and Hauschka but ended the night with https://open.spotify.com/playlist/37i9dQZF1E38i644XXXZVl?si=4yzJ2HZkRJWePcWKLxndfA
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+
+https://codepen.io/Bender_Meemoo/full/QWwEJqM
+
+https://twitter.com/Bender_meemoo/status/1208231938496106496
 
