@@ -403,3 +403,23 @@ https://codepen.io/Bender_Meemoo/full/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1208231938496106496
 
+### Day 13: 12.21.2019 
+##### 
+
+**Today's Progress**: 
+Well went back and fix the Tribute page and learned how to fix something on my last project, Survey page. Both look way batter now. On to the next project tomorrow.
+
+**Thoughts**:
+Going back to fix my old project helped with my current project. Also fuck @import!
+
+**Music**: Hilary Hahn because she is fucking amazing https://open.spotify.com/album/7GiMQKT1Twq3MOVAGQekF7?si=014-oeCXRPOgsaOa0f9JOg
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
+
+https://codepen.io/Bender_Meemoo/pen/VwYegYV
+
+https://codepen.io/Bender_Meemoo/pen/QWwEJqM
+
+https://twitter.com/Bender_meemoo/status/1208578617359425537
