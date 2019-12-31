@@ -423,3 +423,26 @@ https://codepen.io/Bender_Meemoo/pen/VwYegYV
 https://codepen.io/Bender_Meemoo/pen/QWwEJqM
 
 https://twitter.com/Bender_meemoo/status/1208578617359425537
+
+### Day 14: 12.30.2019
+##### 
+
+**Today's Progress**: 
+Took a break, not really a break just sickness/work/family/travel but started working on my product landing page. Going to make it about my violin. Started the code and picking out icons. 
+
+**Thoughts**:
+Getting back into this is getting less harder. I am starting to actually understand HTML and CSS. Prolly should work on templates or something.
+
+**Music**: Ultimate Indie Resents... Best Tracks of 2019. I am always up fro something new. https://open.spotify.com/playlist/37i9dQZF1DWTc5QDlvD7t0?si=nGPtwdcARICUuSTkH_6syw
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
+
+https://codepen.io/Bender_Meemoo/pen/VwYegYV
+
+https://codepen.io/Bender_Meemoo/pen/QWwEJqM
+
+https://codepen.io/Bender_Meemoo/pen/mdyBOJo
+
+https://twitter.com/Bender_meemoo/status/1211840977444495360
