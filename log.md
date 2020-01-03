@@ -446,3 +446,27 @@ https://codepen.io/Bender_Meemoo/pen/QWwEJqM
 https://codepen.io/Bender_Meemoo/pen/mdyBOJo
 
 https://twitter.com/Bender_meemoo/status/1211840977444495360
+
+### Day 15: 1.2.2019
+##### 
+
+**Today's Progress**: 
+apparently I suck at integrating icons and sizing them on my landing page. Picked a font and will hopefully have a color scheme for the page by the end of the night. Overall a meh day.
+
+**Thoughts**:
+Crafting something is hard when you question everything you do.
+
+**Music**: A little Bela Bartok tonight https://open.spotify.com/album/2A0HR22J49ezOJHsztJ5KV?si=GF-o8YRXSz2zpp8bsm-K0Q
+
+**Link(s) to work**: 
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
+
+https://codepen.io/Bender_Meemoo/pen/VwYegYV
+
+https://codepen.io/Bender_Meemoo/pen/QWwEJqM
+
+https://codepen.io/Bender_Meemoo/pen/mdyBOJo
+
+https://twitter.com/Bender_meemoo/status/1212929363542458368
+
+
