@@ -447,7 +447,7 @@ https://codepen.io/Bender_Meemoo/pen/mdyBOJo
 
 https://twitter.com/Bender_meemoo/status/1211840977444495360
 
-### Day 15: 1.2.2019
+### Day 15: 1.2.2020
 ##### 
 
 **Today's Progress**: 
@@ -469,4 +469,26 @@ https://codepen.io/Bender_Meemoo/pen/mdyBOJo
 
 https://twitter.com/Bender_meemoo/status/1212929363542458368
 
+### Day 16: 1.3.2020
+##### 
+
+**Today's Progress**: 
+fixed icon, chose palette, and started work on the header. Still not sold on the font. I tried to start earlier today but that was not happening. We will see about tomorrow.
+
+**Thoughts**:
+I really need to buckle down and get these HTML CSS projects done.
+
+**Music**: https://open.spotify.com/playlist/37i9dQZEVXcDUglTMnZo2W?si=unNOQftxRFKdupv0zNny_w
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
+
+https://codepen.io/Bender_Meemoo/pen/VwYegYV
+
+https://codepen.io/Bender_Meemoo/pen/QWwEJqM
+
+https://codepen.io/Bender_Meemoo/pen/mdyBOJo
+
+https://twitter.com/Bender_meemoo/status/1213277650573283328
 
