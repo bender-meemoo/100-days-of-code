@@ -492,3 +492,24 @@ https://codepen.io/Bender_Meemoo/pen/mdyBOJo
 
 https://twitter.com/Bender_meemoo/status/1213277650573283328
 
+### Day 17: 1.5.2020
+##### 
+
+**Today's Progress**: 
+So creating a NavBar that looks good and functional is not as easy as it looks and fuck NavBars. Seriously just want a fixed NavBar that is centered.
+
+**Thoughts**:
+When i have an actual challenge I put my head down and try to solve it. My head hurts.
+
+**Music**: https://open.spotify.com/playlist/37i9dQZEVXcDUglTMnZo2W?si=P24QFHWLSG6sWjGrVECdXQ
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
+
+https://codepen.io/Bender_Meemoo/pen/VwYegYV
+
+https://codepen.io/Bender_Meemoo/pen/QWwEJqM
+
+https://twitter.com/Bender_meemoo/status/1214024907006320641
+https://codepen.io/Bender_Meemoo/pen/mdyBOJo
