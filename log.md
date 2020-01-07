@@ -511,5 +511,32 @@ https://codepen.io/Bender_Meemoo/pen/VwYegYV
 
 https://codepen.io/Bender_Meemoo/pen/QWwEJqM
 
-https://twitter.com/Bender_meemoo/status/1214024907006320641
 https://codepen.io/Bender_Meemoo/pen/mdyBOJo
+
+https://twitter.com/Bender_meemoo/status/1214024907006320641
+
+
+### Day 18: 1.6.2020
+##### 
+
+**Today's Progress**: 
+Day18 #100DaysOfCode or as I like to call it the Navbar Wars. Day 2 out of alcohol and the Nabar has me pinned down and if I flinch it will go for the jugular. If I lose though Laurie will have to sell the farm. Send good code! 
+
+**Thoughts**:
+Fuck Nav bars
+
+**Music**: none
+
+**Link(s) to work**: 
+
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page
+
+https://codepen.io/Bender_Meemoo/pen/VwYegYV
+
+https://codepen.io/Bender_Meemoo/pen/QWwEJqM
+
+https://codepen.io/Bender_Meemoo/pen/mdyBOJo
+
+https://twitter.com/Bender_meemoo/status/1214375058338177026
+
+
